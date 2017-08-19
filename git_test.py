@@ -2,3 +2,4 @@
 #!/usr/bin/python
 print "first git file"
 print "first change"
+print "check changed content"
