@@ -3,3 +3,4 @@
 print "first git file"
 print "first change"
 print "check changed content"
+print "commit without message"
